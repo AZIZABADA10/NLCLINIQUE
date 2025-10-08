@@ -14,7 +14,7 @@
   font-size: 16px;
 }
 
-.containerForm input[type="submit"] {
+ input[type="submit"] {
   background-color: #0499b0;
   color: white;
   border: none;

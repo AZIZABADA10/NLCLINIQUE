@@ -1,0 +1,25 @@
+.containerForm {
+  max-width: 600px;
+  margin: 50px auto;
+  padding: 30px;
+  border-radius: 10px;
+}
+
+ input[type="text"], input[type="email"], textarea {
+  width: 100%;
+  padding: 10px;
+  margin-bottom: 20px;
+  border: 1px solid #292828;
+  border-radius: 5px;
+  font-size: 16px;
+}
+
+.containerForm input[type="submit"] {
+  background-color: #0499b0;
+  color: white;
+  border: none;
+  padding: 12px 20px;
+  border-radius: 5px;
+  font-size: 16px;
+}
+

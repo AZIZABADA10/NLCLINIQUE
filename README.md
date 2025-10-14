@@ -44,20 +44,6 @@ Le site est composé de cinq pages principales :
 Le site est hébergé sur GitHub Pages.  
 [Voir la version en ligne](https://azizabada10.github.io/NLCLINIQUE)
 
-##  Structure du dépôt
-
-```
-NLCLINIQUE/
-├── index.html              # Page d'accueil
-├── departements.html       # Page des départements
-├── medecins.html           # Page des médecins
-├── services.html           # Page des services
-├── contact.html            # Page de contact
-├── style.css               # Feuille de style principale
-├── images/                 # Dossier contenant le logo et autres visuels
-└── README.md               # Ce fichier
-```
-
 ## Auteur
 
 Projet réalisé par **AZIZABADA10** dans le cadre de la formation .

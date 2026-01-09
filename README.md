@@ -1,4 +1,3 @@
-```markdown
 #  NLCLINIQUE — Site Web de la Clinique NextLine
 
 Bienvenue sur le dépôt GitHub du projet **NLCLINIQUE**, un site web multipage conçu pour améliorer l'accès aux informations médicales de la clinique NextLine.
